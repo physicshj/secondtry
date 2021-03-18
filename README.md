@@ -1,2 +1,2 @@
 # secondtry
-第二次尝试远程控制
+second try to push from remote
